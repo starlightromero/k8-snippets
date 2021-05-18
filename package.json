@@ -3,7 +3,7 @@
   "main": "./lib/kubernetes-snippets",
   "version": "0.7.0",
   "description": "kubernetes-snippets",
-  "keywords": [],
+  "keywords": ["kubernetes", "k8", "snippets", "deployment"],
   "repository": "https://github.com/starlightromero/kubernetes-snippets",
   "license": "MIT",
   "engines": {
