@@ -20,21 +20,21 @@ $ cd k8-snippets $ apm install $ apm link
 
 the → means the TAB key
 
-                 Trigger | Content
------------------------: | --------------------------------------
-            `ConfigMap→` | set configuration data separately from application code
-           `Deployment→` | declarative updates for Pods and ReplicaSets
-              `Ingress→` | manages external access to the services in a cluster
-         `LoadBalancer→` | externally-accessible IP address that sends traffic to the correct port on your cluster nodes
-             `NodePort→` | NodePort Service
-     `PersistentVolume→` | a piece of storage in the cluster that has been provisioned by an administrator or dynamically provisioned using Storage Classes
+Trigger                  | Content
+:----------------------- | :-------------------------------------------------------------------------------------------------------------------------------
+`ConfigMap→`             | set configuration data separately from application code
+`Deployment→`            | declarative updates for Pods and ReplicaSets
+`Ingress→`               | manages external access to the services in a cluster
+`LoadBalancer→`          | externally-accessible IP address that sends traffic to the correct port on your cluster nodes
+`NodePort→`              | NodePort Service
+`PersistentVolume→`      | a piece of storage in the cluster that has been provisioned by an administrator or dynamically provisioned using Storage Classes
 `PersistentVolumeClaim→` | a user's request for and claim to a persistent volume
-                  `Pod→` | a group of one or more containers, with shared storage and network resources, and a specification for how to run the containers
-           `ReplicaSet→` | maintains a stable set of replica Pods running at any given time
-`ReplicationController→` | ensures that a specified number of pod replicas are running at any one time
-               `Secret→` | store and manage sensitive information
-              `Service→` | abstract way to expose an application running on a set of Pods as a network service
-         `StorageClass→` | a way for administrators to describe the "classes" of storage they offer
+`Pod→`                   | a group of one or more containers, with shared storage and network resources, and a specification for how to run the containers
+`ReplicaSet→`            | import react and useEffect
+`ReplicationController→` | import react, useState and useEffect
+`Secret→`                | store and manage sensitive information
+`Service→`               | abstract way to expose an application running on a set of Pods as a network service
+`StorageClass→`          | a way for administrators to describe the "classes" of storage they offer
 
 ## Contributing
 
