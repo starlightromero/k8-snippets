@@ -1,3 +1,17 @@
+# 0.10.0
+
+- [update] README
+
+# 0.9.0
+
+- initial release to Atom
+
+# 0.8.0
+
+- [update] package name
+- [update] keywords
+- [update] package repository
+
 # 0.7.0
 
 - [create] NodePort snippet
