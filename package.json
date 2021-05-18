@@ -1,10 +1,10 @@
 {
-  "name": "kubernetes-snippets",
-  "main": "./lib/kubernetes-snippets",
+  "name": "k8-snippets",
+  "main": "./lib/k8-snippets",
   "version": "0.7.0",
-  "description": "kubernetes-snippets",
+  "description": "k8-snippets",
   "keywords": ["kubernetes", "k8", "snippets", "deployment"],
-  "repository": "https://github.com/starlightromero/kubernetes-snippets",
+  "repository": "https://github.com/starlightromero/k8-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
