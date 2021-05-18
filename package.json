@@ -1,7 +1,7 @@
 {
   "name": "k8-snippets",
   "main": "./lib/k8-snippets",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "k8-snippets",
   "keywords": [
     "kubernetes",
